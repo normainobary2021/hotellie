@@ -10,3 +10,4 @@ backend/.env.e2e
 frontend/.env
 frontend/.env.e2e
 help.txt
+transcript.md
